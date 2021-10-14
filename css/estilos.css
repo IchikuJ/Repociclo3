@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1{
+  float: right;
+  
+  
+}
+
+.recuadro1 {
+	border:1px solid black;
+	width:49.5%;
+	display:inline-block;
+	height:49.5%;
+	overflow:hidden;
+}
+
+p{
+    text-align: center;
+}
